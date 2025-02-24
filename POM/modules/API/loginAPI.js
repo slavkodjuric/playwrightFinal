@@ -13,3 +13,11 @@ export class LoginAPI {
     return responseJSON;
   }
 }
+
+// {
+//     "cardholder": "John Doe",
+//     "card_type": "Visa",
+//     "card_number": "4111111111111111",
+//     "cvv": 123,
+//     "card_expiration_date": "12/24"
+//   }
