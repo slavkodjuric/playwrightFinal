@@ -1,0 +1,27 @@
+{
+  "name": "playwrightfinal",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavkodjuric/playwrightFinal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavkodjuric/playwrightFinal/issues"
+  },
+  "homepage": "https://github.com/slavkodjuric/playwrightFinal#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5",
+    "eslint": "^9.21.0",
+    "eslint-plugin-playwright": "^2.2.0",
+    "globals": "^16.0.0"
+  }
+}
